@@ -1,5 +1,5 @@
 Privacy Policy  
-----------------
+--------------
 
 AwesomeAndroidApps built the My Delicious Recipes app as a Commercial app. This SERVICE is provided by AwesomeAndroidApps and is intended for use as is.
 
@@ -9,7 +9,8 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at My Delicious Recipes unless otherwise defined in this Privacy Policy.
 
-** Information Collection and Use **
+Information Collection and Use
+--------------
 
 This application does not collect or store personal data.
 
@@ -17,7 +18,9 @@ The app does use third-party services that may collect information used to ident
 
 Link to the privacy policy of third-party service providers used by the app
 
-Google Play Services
+
+[Google Play Services](https://policies.google.com/privacy)
+
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
